@@ -1,0 +1,8 @@
+opencv-python 4.2.0.34
+install: pip3 install opencv-python
+
+pyzbar 0.1.8
+install: pip3 install pyzbar
+run: sudo apt-get install zbar-tools 
+if Unable to find zbar shared library
+
